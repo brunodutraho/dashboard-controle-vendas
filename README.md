@@ -1,53 +1,85 @@
-# 📊 Relatório de Vendas — Business Intelligence
+# 📊 Relatório de Vendas – Business Intelligence
 
-✨ Projeto desenvolvido para análise estratégica de vendas, comparando **metas e resultados dos últimos 3 anos**.  
-O objetivo é transformar dados operacionais em **insights claros, visuais e acionáveis** para apoiar decisões comerciais.
+Este repositório apresenta um dashboard interativo desenvolvido em **Power BI** para análise de indicadores de vendas.  
+O objetivo é fornecer uma visão clara e objetiva sobre metas, faturamento e desempenho por vendedor, facilitando tomadas de decisão e acompanhamento de métricas comerciais.
 
----
-
-## 🎯 Objetivos
-- 📈 Comparar metas e faturamento real (2017 → 2020)  
-- 📊 Analisar crescimento percentual por período  
-- 👥 Avaliar desempenho por vendedor e forma de pagamento  
-- 🔎 Identificar padrões de cancelamento e recebimento parcelado  
-- 🗂️ Gerar visão consolidada por ano, vendedor e método de pagamento  
+🔗 **Acesse o dashboard publicado:**  
+https://app.powerbi.com/view?r=eyJrIjoiMGVmZTNlZDctZGVjYi00YzhhLWE1ZmEtY2I2MjIwY2Q4MjMxIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-- 🖥️ **Power BI** → visualização e storytelling com dados  
-- 📑 **Excel** → estruturação e limpeza de dados  
-- 🗄️ **SQL Server** → consultas e integração com o modelo  
+## 🏷️ Badges
+
+<p align="left">
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<!-- SQL -->
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<!-- GitHub Stats -->
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📌 Indicadores principais
-- 💰 Faturamento por ano e por vendedor  
-- 📆 Percentual de crescimento por dia  
-- 💳 Faturamento por forma de pagamento (crédito, débito, presente, dinheiro, PIX)  
-- ❌ Taxa de cancelamento vs receita  
-- 📑 Resumo fiscal por venda  
+## 🖼️ Prévia do Dashboard
+
+<p align="center">
+  <img src="https://i.imgur.com/8JtnpK6.png" alt="Banner do Projeto" style="max-width:100%; height:250px; object-fit:cover; border-radius:8px;">
+</p>
 
 ---
 
-## 🔗 Acesse o projeto
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMGVmZTNlZDctZGVjYi00YzhhLWE1ZmEtY2I2MjIwY2Q4MjMxIiwidCI6ImJkYjUwNDk5LWIyNmMtNDNjNS1iM2E1LTFiYTMxZDA4NmQzYiJ9" target="_blank">🚀 Relatório de Vendas — Power BI</a>
+## 📄 Fonte dos Dados
+
+O dashboard consome dados a partir de **planilhas Excel e integrações SQL**, contendo:
+
+- Metas de vendas por ano  
+- Histórico de faturamento  
+- Cancelamentos e formas de pagamento  
+- Desempenho individual por vendedor  
+
+Os dados passam por tratamento no **Power Query**, garantindo limpeza, padronização e consistência antes da modelagem.
 
 ---
 
-## 🖼️ Imagem do projeto
-<img src="https://i.imgur.com/8JtnpK6.png" alt="Relatório de Vendas Power BI" width="800"/>
+## 📈 Sobre o Dashboard
+
+O dashboard foi construído com foco em:
+
+- ✅ Comparativo de metas e resultados  
+- ✅ Crescimento percentual por período  
+- ✅ Análise por vendedor e forma de pagamento  
+- ✅ Indicadores visuais de performance  
+- ✅ Publicação pública para fins de portfólio  
+
+### **Principais métricas apresentadas**
+
+- Faturamento por ano e vendedor  
+- Percentual de crescimento por dia  
+- Distribuição por forma de pagamento  
+- Taxa de cancelamento vs receita  
 
 ---
 
-## 👨‍💻 Autor
-**Bruno Dutra**  
-📊 Analista de Dados Jr | Power BI • SQL • Excel  
-🌐 Portfólio: [bruno-dutra-portfolio.vercel.app](https://bruno-dutra-portfolio.vercel.app)  
-💻 GitHub: [github.com/brunodutraho](https://github.com/brunodutraho)  
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+## 🛠️ Tecnologias Utilizadas
+
+- **Power BI Desktop**  
+- **Power BI Service (Publish to Web)**  
+- **Power Query (M)**  
+- **DAX**  
+- **Excel / SQL Server (como fonte de dados)**  
 
 ---
 
-✨ Este projeto representa meu compromisso com aprendizado contínuo e minha paixão por **transformar dados em decisões**.  
-Busco oportunidades para aplicar essas habilidades em ambientes reais, colaborando com equipes que valorizam dados como ferramenta estratégica.
+## 📬 Contato
+
+🔗 **GitHub:** https://github.com/brunodutraho  
+🔗 **LinkedIn:** https://www.linkedin.com/in/brunodutraho/  
+🔗 **Portfólio:** https://bruno-dutra-portfolio.vercel.app
